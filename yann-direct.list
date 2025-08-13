@@ -1,0 +1,16 @@
+# 内网IP地址直连规则
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+IP-CIDR,127.0.0.0/8
+DOMAIN-SUFFIX,jackofalltrades.top
+DOMAIN-SUFFIX,liuyann.com
+DOMAIN-SUFFIX,liuyann.us.kg
+DOMAIN-SUFFIX,jama.qzz.io
+DOMAIN-SUFFIX,jbjs.qzz.io
+DOMAIN-SUFFIX,bone.qzz.io
+DOMAIN-SUFFIX,pathofexile2.com
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,hf-mirror.com
+DOMAIN,cdn1.koyso.to
